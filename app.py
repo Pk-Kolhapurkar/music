@@ -29,4 +29,4 @@ def merge_with_librosa(vocal_path, music_path, output_path="output.mp3"):
     return output_path
 
 # Use it
-merge_with_librosa("/workspaces/music/transpose-0-model-53556-20260110.mp3", "/workspaces/music/dhurandhar  [music].mp3", "final.mp3")
+merge_with_librosa("/workspaces/music/transpose_0_model_53556_20260111110515d2vocalscut46sec_970140_output.mp3", "/workspaces/music/d2 [music].mp3", "final.mp3")
